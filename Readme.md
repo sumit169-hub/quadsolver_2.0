@@ -20,7 +20,7 @@ Enter key - To solve another example.
 
 #Author :
 Name :Sumit Deshmukh
-Phone:+918459788732(Emergency only)
+Phone:+918459788732
 For Issues , complaints and improvements:
     deshmukhsumit169@gmail.com
 
